@@ -9,7 +9,6 @@ You can also take a look at my [Configuration](https://github.com/aFFekopp/homea
 ![ISSUES](https://img.shields.io/github/issues-raw/aFFekopp/dark_teal?style=flat-square)
 ![ACTIVITY](https://img.shields.io/github/commit-activity/w/aFFekopp/dark_teal?style=flat-square)
 ![LASTCOMMIT](https://img.shields.io/github/last-commit/aFFekopp/dark_teal?style=flat-square)
-![SIZE](https://img.shields.io/github/repo-size/aFFekopp/dark_teal?style=flat-square)
 
 ### Screenshot
 ---
