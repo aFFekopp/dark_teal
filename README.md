@@ -1,5 +1,12 @@
 ### Dark Teal
 ---
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=flat-square)](https://github.com/custom-components/hacs)
+![STARS](https://img.shields.io/github/stars/aFFekopp/homeassistant?color=yellow&style=flat-square)
+![ISSUES](https://img.shields.io/github/issues-raw/aFFekopp/homeassistant?style=flat-square)
+![ACTIVITY](https://img.shields.io/github/commit-activity/w/aFFekopp/homeassistant?style=flat-square)
+![LASTCOMMIT](https://img.shields.io/github/last-commit/aFFekopp/homeassistant?style=flat-square)
+![SIZE](https://img.shields.io/github/repo-size/aFFekopp/homeassistant?style=flat-square)
+
 Dark Theme with Teal Colors for [Home Assistant](https://www.home-assistant.io) based on [Clear Theme Dark](https://github.com/naofireblade/clear-theme-dark) by [@naofireblade](https://github.com/naofireblade)
 
 You can also take a look at my [Configuration](https://github.com/aFFekopp/homeassistant)
