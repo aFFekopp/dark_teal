@@ -4,7 +4,7 @@ Dark Theme with Teal Colors for [Home Assistant](https://www.home-assistant.io) 
 
 [![](https://img.shields.io/badge/My-Configuration-blue?style=for-the-badge)](https://github.com/aFFekopp/homeassistant)
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=flat-square)](https://github.com/custom-components/hacs) ![STARS](https://img.shields.io/github/stars/aFFekopp/dark_teal?color=yellow&style=flat-square) ![ISSUES](https://img.shields.io/github/issues-raw/aFFekopp/dark_teal?style=flat-square) ![LASTCOMMIT](https://img.shields.io/github/last-commit/aFFekopp/dark_teal?style=flat-square) ![dl](https://img.shields.io/github/downloads/aFFekopp/dark_teal/total?style=flat-square)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=flat-square)](https://github.com/custom-components/hacs) ![STARS](https://img.shields.io/github/stars/aFFekopp/dark_teal?color=yellow&style=flat-square) ![ISSUES](https://img.shields.io/github/issues-raw/aFFekopp/dark_teal?style=flat-square) ![LASTCOMMIT](https://img.shields.io/github/last-commit/aFFekopp/dark_teal?style=flat-square)
 
 ## Screenshot
 ![](https://raw.githubusercontent.com/aFFekopp/homeassistant/master/docs/1.png)
