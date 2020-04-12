@@ -43,6 +43,7 @@ dark_teal:
   
   # Left Menu
   paper-listbox-background-color: 'rgba(69, 74, 83, 1)'
+  sidebar-background-color: 'var(--paper-listbox-background-color)'
   sidebar-icon-color: 'var(--secondary-text-color)'
   sidebar-selected-icon-color: 'var(--accent-color)'
   sidebar-selected-text-color: 'var(--text-color)'
